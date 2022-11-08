@@ -1,0 +1,20 @@
+* {
+    font-family: Verdana, Helvetica, sans-serif;
+}
+
+.recipe {
+    text-align: center;
+}
+
+#image-center {
+    display: inline;
+    width: 400px;
+}
+
+.paragraph-padding {
+    padding-bottom: 10px;
+}
+
+.centered {
+    margin-left: 20px;
+}
